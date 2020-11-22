@@ -15,13 +15,13 @@
   "author": "thejsj",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^3.7.0",
-    "q": "^1.2.1"
+    "lodash": "^4.17.20",
+    "q": "^1.5.1"
   },
   "devDependencies": {
     "mocha": "^2.2.4",
-    "rethinkdb": "^2.0.0",
-    "rethinkdbdash": "^2.2.17",
+    "rethinkdb": "^2.4.2",
+    "rethinkdbdash": "^2.3.31",
     "should": "^6.0.1",
     "standard": "^7.1.2"
   },
